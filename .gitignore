@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/scratchy
+scratchy.so
+scratchy.dylib
+scratchy.dll
+scratchy.a
+scratchy.lib
+scratchy-test-*
+*.exe
+*.o
+*.obj
+*.lst

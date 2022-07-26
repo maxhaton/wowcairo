@@ -1,0 +1,8 @@
+name "scratchy"
+description "A minimal D application."
+authors "Max Haughton"
+copyright "Copyright © 2022, Max Haughton"
+license "proprietary"
+dependency "cairod" version=">=0.0.1-alpha.3+1.10.2 <0.1.0-0"
+libs "cairo"
+versions "CairoPNG" "CairoPDFSurface" "CairoSVGSurface"
